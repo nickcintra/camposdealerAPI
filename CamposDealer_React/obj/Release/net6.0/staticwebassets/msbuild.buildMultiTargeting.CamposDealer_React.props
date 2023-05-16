@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CamposDealer_React.props" />
+</Project>
